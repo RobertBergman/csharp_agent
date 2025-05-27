@@ -2,6 +2,8 @@
 
 A comprehensive Windows Forms application that leverages OpenAI's GPT models to provide intelligent agent capabilities including multi-modal chat, document processing, receipt analysis, and trip planning.
 
+**Lead Architect:** Robert L. Bergman
+
 ## ✨ Features
 
 ### 🤖 **AI Chat Interface**
@@ -133,6 +135,14 @@ Agent/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Authors
+
+**Robert L. Bergman** - *Lead Architect & Principal Developer*
+- Project architecture and design
+- Core AI integration implementation
+- Windows Forms UI development
+- System architecture and patterns
 
 ## 🙏 Acknowledgments
 
